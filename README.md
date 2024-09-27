@@ -1,2 +1,0 @@
-# tutorials
-C# beginners class
